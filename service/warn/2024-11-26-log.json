@@ -1,0 +1,1348 @@
+{
+  message: '\x1B[31mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2024-11-26T12:34:23.136Z'
+}
+{
+  message: '\x1B[33mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[33mwarn\x1B[39m',
+  timestamp: '2024-11-26T12:34:23.145Z'
+}
+{
+  message: '\x1B[31mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2024-11-26T12:34:24.399Z'
+}
+{
+  message: '\x1B[33mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[33mwarn\x1B[39m',
+  timestamp: '2024-11-26T12:34:24.404Z'
+}
+{
+  message: '\x1B[31mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2024-11-26T12:36:03.923Z'
+}
+{
+  message: '\x1B[33mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[33mwarn\x1B[39m',
+  timestamp: '2024-11-26T12:36:03.931Z'
+}
+{
+  message: '\x1B[31mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2024-11-26T12:36:56.838Z'
+}
+{
+  message: '\x1B[33mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[33mwarn\x1B[39m',
+  timestamp: '2024-11-26T12:36:56.843Z'
+}
+{
+  message: '\x1B[31mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2024-11-26T12:36:59.570Z'
+}
+{
+  message: '\x1B[33mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[33mwarn\x1B[39m',
+  timestamp: '2024-11-26T12:36:59.576Z'
+}
+{
+  message: '\x1B[31mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2024-11-26T12:37:05.874Z'
+}
+{
+  message: '\x1B[33mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[33mwarn\x1B[39m',
+  timestamp: '2024-11-26T12:37:05.880Z'
+}
+{
+  message: '\x1B[31mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[31merror\x1B[39m',
+  timestamp: '2024-11-26T12:37:09.725Z'
+}
+{
+  message: '\x1B[33mtalaba tizzimga kirdi\x1B[39m',
+  level: '\x1B[33mwarn\x1B[39m',
+  timestamp: '2024-11-26T12:37:09.731Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:37:13.994Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:37:14.000Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:37:19.307Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:37:19.311Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:38:14.957Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:38:14.965Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:38:19.614Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:38:19.619Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:38:30.030Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:38:30.035Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:38:36.171Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:38:36.177Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:39:45.005Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:39:45.010Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:45:31.491Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:45:31.496Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:45:37.992Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:45:37.997Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:45:40.325Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:45:40.332Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:46:06.539Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:46:06.544Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:50:59.773Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:50:59.780Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:51:38.032Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:51:38.038Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:51:39.419Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:51:39.425Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:51:44.784Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:51:44.789Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:51:46.126Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:51:46.137Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:51:58.119Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:51:58.127Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:51:59.366Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:51:59.372Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:52:05.240Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:52:05.245Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:52:12.738Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:52:12.742Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:52:39.439Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:52:39.446Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:53:45.138Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:53:45.143Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:53:49.823Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:53:49.828Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:53:53.455Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:53:53.463Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:55:12.894Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:55:12.899Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:55:20.004Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:55:20.010Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:55:22.917Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:55:22.924Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:55:26.320Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:55:26.325Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:55:35.530Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:55:35.537Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:55:38.820Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:55:38.827Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:55:46.100Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:55:46.106Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:56:00.959Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:56:00.964Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:56:02.765Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:56:02.772Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:56:07.040Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:56:07.045Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:56:10.190Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:56:10.195Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:56:11.340Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:56:11.345Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:56:16.646Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:56:16.651Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:56:19.030Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:56:19.036Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:56:45.554Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:56:45.560Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:04.824Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:04.830Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:15.001Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:15.007Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:16.968Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:16.973Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:24.323Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:24.328Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:25.349Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:25.355Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:29.618Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:29.626Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:30.790Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:30.796Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:33.856Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:33.861Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:39.365Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:39.370Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:42.278Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:42.286Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:57:43.873Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:57:43.881Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:58:06.842Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:58:06.848Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:58:12.891Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:58:12.898Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:59:03.727Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:59:03.734Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:59:24.685Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:59:24.694Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:59:41.742Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:59:41.747Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:59:44.867Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:59:44.873Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:59:48.175Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:59:48.180Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:59:49.842Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:59:49.849Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:59:51.924Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:59:51.931Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T12:59:55.826Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T12:59:55.833Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:02.865Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:02.872Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:04.711Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:04.720Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:06.931Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:06.941Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:08.383Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:08.388Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:11.199Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:11.204Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:14.200Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:14.205Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:26.397Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:26.403Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:31.456Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:31.460Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:33.792Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:33.798Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:37.827Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:37.832Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:42.376Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:42.383Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:00:45.056Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:00:45.062Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:01:18.396Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:01:18.402Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:01:19.646Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:01:19.651Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:01:29.571Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:01:29.577Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:01:34.350Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:01:34.356Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:01:38.865Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:01:38.871Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:01:41.044Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:01:41.049Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:01:43.605Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:01:43.610Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:01:46.979Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:01:46.984Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:02:10.064Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:02:10.069Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:02:12.050Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:02:12.055Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:02:14.619Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:02:14.625Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:02:29.862Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:02:29.868Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:02:41.613Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:02:41.628Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:23:10.882Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:23:10.888Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:23:19.399Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:23:19.405Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:23:21.162Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:23:21.168Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:23:25.293Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:23:25.298Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:23:42.469Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:23:42.474Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:23:44.204Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:23:44.210Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:23:55.445Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:23:55.450Z'
+}
+{
+  error: ReferenceError: test is not defined
+      at getLog (F:\najot ta'lim\Uyga vazifalar\5-oy.Uyga vazifa\9-dars.Uyga vazifa\controller\logger.controller.js:15:26)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5),
+  level: 'error',
+  message: 'Error fetching logs',
+  timestamp: '2024-11-26T13:24:13.371Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:24:58.213Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:24:58.218Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:25:13.910Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:25:13.918Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:25:15.320Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:25:15.325Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:25:18.046Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:25:18.053Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:25:19.260Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:25:19.267Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:25:24.879Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:25:24.885Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:25:26.832Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:25:26.838Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:25:28.607Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:25:28.613Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:27:53.339Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:27:53.344Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:28:22.095Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:28:22.101Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:31:13.998Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:31:14.004Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:31:21.890Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:31:21.895Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:31:23.678Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:31:23.683Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:31:45.331Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:31:45.336Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:32:39.186Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:32:39.191Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:32:40.587Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:32:40.592Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:33:20.944Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:33:20.950Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:33:24.228Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:33:24.233Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:35:22.163Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:35:22.167Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:36:42.937Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:36:42.942Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:36:49.719Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:36:49.725Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:40:47.500Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:40:47.505Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:42:48.636Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:42:48.642Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:43:07.463Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:43:07.468Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:43:12.466Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:43:12.471Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:43:48.194Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:43:48.199Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:43:50.317Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:43:50.324Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:43:51.442Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:43:51.447Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:43:53.177Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:43:53.183Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:43:57.087Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:43:57.093Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:44:00.322Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:44:00.329Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:44:03.117Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:44:03.126Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:44:05.393Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:44:05.402Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:44:10.224Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:44:10.232Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'error',
+  timestamp: '2024-11-26T13:44:18.940Z'
+}
+{
+  message: 'talaba tizzimga kirdi',
+  level: 'warn',
+  timestamp: '2024-11-26T13:44:18.946Z'
+}
